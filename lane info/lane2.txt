@@ -1,0 +1,50 @@
+Jimmy 2 5
+Kendra 6 3
+Linus 6 4
+Tammy 10
+Sue 0 0
+Jimmy 6 4
+Kendra 3 0
+Linus 9 1
+Tammy 10
+Sue 0 0
+Jimmy 5 5
+Kendra 3 0
+Linus 4 6
+Tammy 10
+Sue 0 0
+Jimmy 10
+Kendra 0 0
+Linus 8 2
+Tammy 10
+Sue 0 0
+Jimmy 8 2
+Kendra 9 0
+Linus 9 1
+Tammy 10
+Sue 0 0
+Jimmy 9 0
+Kendra 0 8
+Linus 9 1
+Tammy 10
+Sue 0 0
+Jimmy 3 7
+Kendra 1 0
+Linus 5 5
+Tammy 10
+Sue 0 0
+Jimmy 5 5
+Kendra 2 7
+Linus 9 1
+Tammy 10
+Sue 0 0
+Jimmy 7 3
+Kendra 6 0
+Linus 6 4
+Tammy 10
+Sue 0 0
+Jimmy 9 1 10
+Kendra 2 6 
+Linus 9 1 0
+Tammy 10 10 10
+Sue 0 0
