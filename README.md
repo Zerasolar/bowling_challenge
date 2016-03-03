@@ -43,10 +43,3 @@ Lucy 10 2 8
 Example output:
 Lucy 191
 John 171
-
-Please implement this program in Ruby. If we like what we see, we will proceed with an in-person interview. During that
-interview you will likely be asked to explain and extend the code. Be sure to write tests and include them with
-your submission.  You should also include a README file that includes usage instructions.
-
-This challenge is confidential. Do not share, post it online, or otherwise make it public without CardFlight's written
-permission.
